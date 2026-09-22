@@ -1,3 +1,5 @@
+print('Injected with poopser api (prosper)')
+
 local RunService = game:GetService("RunService")
 local Clock = os.clock
 local Samples = 60
